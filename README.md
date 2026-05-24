@@ -1,4 +1,4 @@
-# TechCareer Data Science Bootcamp Projects
+# TurkStudentCo Data Science Bootcamp Projects
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
